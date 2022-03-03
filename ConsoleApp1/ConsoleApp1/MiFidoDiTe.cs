@@ -9,6 +9,6 @@ namespace ConsoleApp1
     public class MiFidoDiTe
     {
         public int ID { get; set; }
-        public string Descrizione { get; set; } = string.Empty;
+        public string DescrizioneEstesa { get; set; } = string.Empty;
     }
 }
